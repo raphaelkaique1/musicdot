@@ -40,8 +40,6 @@ musicdot/
 └── README.md
 ```
 
-<a href="https://raphaelkaique1.github.io/musicdot/">
-  <img src="https://github.com/user-attachments/assets/a11de362-b3b8-4516-87c8-275c93ab776f">
-</a>
+<a href="https://raphaelkaique1.github.io/musicdot/"><img src="https://github.com/user-attachments/assets/a11de362-b3b8-4516-87c8-275c93ab776f"/></a>
 
 <div align="center">Copyright &copy; 2025 <a href="https://github.com/raphaelkaique1">Raphael Kaíque Dias Santos</a></div>

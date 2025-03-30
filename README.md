@@ -41,7 +41,7 @@ musicdot/
 ```
 
 <video width="100%" height="auto" controls autoplay>
-  <source src="https://github.com/user-attachments/assets/8c379d66-5511-4790-9dfa-5f91b365949b" type="video/mp4">
+  <source src="./video/musicdot.mp4" type="video/mp4">
 </video>
 
 <div align="center">Copyright &copy; 2025 <a href="https://github.com/raphaelkaique1">Raphael Kaíque Dias Santos</a></div>
